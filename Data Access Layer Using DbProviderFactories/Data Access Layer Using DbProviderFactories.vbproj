@@ -73,7 +73,7 @@
     <Compile Include="Data Access Layer\ConfigurationSettings.vb" />
     <Compile Include="Data Access Layer\DatabaseHelper.vb" />
     <Compile Include="Data Access Layer\DBManager.vb" />
-    <Compile Include="Program.vb" />
+    <Compile Include="Test\Program.vb" />
     <Compile Include="Data Access Layer\ProviderManager.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -90,7 +90,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="User.vb" />
+    <Compile Include="Test\User.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
